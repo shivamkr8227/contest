@@ -6,7 +6,7 @@ header {
   margin-left: 100px;
   background-color: rgb(82, 224, 210);
   height: 80px;
-  width: 240px;
+  width: 260px;
 }
 main {
   margin: 0px;
@@ -16,7 +16,7 @@ main {
   margin-left: 100px;
   background-color: rgb(82, 224, 210);
   max-height: 400px;
-  width: 240px;
+  width: 260px;
 }
 #order-btn {
   background-color: rgb(59, 174, 59);
