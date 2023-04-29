@@ -61,7 +61,7 @@ function payOrder() {
 
 // thankyouFnc function to show a thank you message after payment
 function thankyouFnc() {
-  alert("Thank you for eating with us today!");
+  alert("Thank you for eating with us today, Have a Great Day");
 }
 
 // getMenu() is called on page load to fetch the food items from API and show them to user
